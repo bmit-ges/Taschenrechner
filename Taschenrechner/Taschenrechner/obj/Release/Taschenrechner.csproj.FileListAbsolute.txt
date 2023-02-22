@@ -1,0 +1,15 @@
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\bin\Release\Taschenrechner.exe.config
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\bin\Release\Taschenrechner.exe
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\bin\Release\Taschenrechner.pdb
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.csproj.AssemblyReference.cache
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.csproj.SuggestedBindingRedirects.cache
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.Form1.resources
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.Form2.resources
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.Form3.resources
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.Form4.resources
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.Form5.resources
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.Properties.Resources.resources
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.csproj.GenerateResource.cache
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.csproj.CoreCompileInputs.cache
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.exe
+D:\GES\repos\Taschenrechner\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.pdb
