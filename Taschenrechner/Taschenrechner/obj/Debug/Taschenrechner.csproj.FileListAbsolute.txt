@@ -1,0 +1,72 @@
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.AssemblyReference.cache
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.SuggestedBindingRedirects.cache
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form2.resources
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form3.resources
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form4.resources
+D:\GES\repos\API_Fachwoche\FW_C_sharp_GUI\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form5.resources
+P:\API Fachwochen\FW API 2022-W11 C# GUIs mit WPF WFA\ges\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.AssemblyReference.cache
+P:\API Fachwochen\FW API 2022-W11 C# GUIs mit WPF WFA\ges\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.SuggestedBindingRedirects.cache
+P:\API Fachwochen\FW API 2022-W11 C# GUIs mit WPF WFA\ges\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+P:\API Fachwochen\FW API 2022-W11 C# GUIs mit WPF WFA\ges\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form2.resources
+P:\API Fachwochen\FW API 2022-W11 C# GUIs mit WPF WFA\ges\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form3.resources
+P:\API Fachwochen\FW API 2022-W11 C# GUIs mit WPF WFA\ges\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form4.resources
+P:\API Fachwochen\FW API 2022-W11 C# GUIs mit WPF WFA\ges\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form5.resources
+P:\API Fachwochen\FW API 2022-W11 C# GUIs mit WPF WFA\ges\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+P:\API Fachwochen\FW API 2022-W11 C# GUIs mit WPF WFA\ges\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+P:\API Fachwochen\FW API 2022-W11 C# GUIs mit WPF WFA\ges\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+P:\API Fachwochen\FW API 2022-W11 C# GUIs mit WPF WFA\ges\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+P:\API Fachwochen\FW API 2022-W11 C# GUIs mit WPF WFA\ges\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.SuggestedBindingRedirects.cache
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form2.resources
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form3.resources
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form4.resources
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form5.resources
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\sibylle.gehring\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.AssemblyReference.cache
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.SuggestedBindingRedirects.cache
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form2.resources
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form3.resources
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form4.resources
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form5.resources
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+D:\GES\_Projekte\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.AssemblyReference.cache
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.SuggestedBindingRedirects.cache
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form2.resources
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form3.resources
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form4.resources
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form5.resources
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+D:\GES\repos\Projekte\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
